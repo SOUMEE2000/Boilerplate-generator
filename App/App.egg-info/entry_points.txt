@@ -1,0 +1,5 @@
+
+        [console_scripts]
+        manage=manage:cli
+        add=add:add
+    
