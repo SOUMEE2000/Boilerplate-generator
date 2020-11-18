@@ -5,7 +5,7 @@ A simple CLI tool made using python. Has support for a variety of languages alre
 
 Installation requirements:
 -- [ ] Click
--- [ ] OS
+-- [ ] Pandas
 must be installed. They are python packages.
 
 ## Commands are : add and generate
