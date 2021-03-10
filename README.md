@@ -1,4 +1,4 @@
-# CLI(Incomplete..yet to understand)
+# CLI
 A simple CLI tool made using python. Has support for a variety of languages already.
 
 ## Generates boilerplates for different languages
