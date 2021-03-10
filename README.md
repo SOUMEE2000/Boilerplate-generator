@@ -17,6 +17,7 @@ must be installed. They are python packages.
 -- [ ] Generate generates boilerplates of a particular language. The file can be named as per wanted.
 
 ## Contribution Guidelines
-Thank you so much for your interest. If you want to add support for some other language please use the add function.
+Thank you so much for your interest. If you want to add support for some other languages please use the add function, or upload files directly into this repo under App/templates as given in the wiki mentioned below.
 And create separate PRs for separate requests.
 
+For more information go to this [![wiki](https://github.com/SOUMEE2000/CLI/wiki/Adding-support-for-new-languages)]
