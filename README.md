@@ -20,7 +20,3 @@ must be installed. They are python packages.
 Thank you so much for your interest. If you want to add support for some other language please use the add function.
 And create separate PRs for separate requests.
 
-## Read this:
-https://realpython.com/pypi-publish-python-package/#:~:text=toml%20file.&text=The%20publish%20command%20will%20build,username%20and%20password%20if%20necessary.
-
-https://click.palletsprojects.com/en/7.x/
